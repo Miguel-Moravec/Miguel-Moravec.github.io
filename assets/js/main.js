@@ -172,7 +172,7 @@ jQuery(document).ready(function($) {
 // typing animation
 $(function() {
     $(".typed").typed({
-        strings: ["V<b>anderbilt</b> I<b>nstitute</b> <b>for</b> S<b>mart</b> <b>Cities</b> O<b>peration</b> <b>and</b> R<b>esearch</b>"],
+        strings: ["If not us, then <b>who?</b>"],
         startDelay: 1000,
         typeSpeed: 10
     });
